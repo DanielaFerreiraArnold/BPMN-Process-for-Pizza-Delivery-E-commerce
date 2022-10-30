@@ -1,6 +1,5 @@
 # BPMN Process for Pizza Delivery E-commerce
 
-## Business Process Management Notation - Beginners
 
 This week, I worked on a project that required me to plan a BPMN process for the development of a pizza delivery e-commerce. For better understanding, first, I will explain the basics of BPMN, and then, I will describe my project.
 
